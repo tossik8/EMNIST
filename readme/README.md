@@ -1,4 +1,4 @@
-# CHI ML Internship 2024
+# EMNIST
 
 ## Introduction
 
